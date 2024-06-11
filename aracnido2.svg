@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="320.1px" height="428px" viewBox="0 0 320.1 428" enable-background="new 0 0 320.1 428" xml:space="preserve">
+<path id="pataI3" d="M148.8,298.1c0,0-62,30.8-62.2,47c-0.1,13.9,43,35,43,35l-21,17l8,9l19-26c0,0-39.9-22.4-39.2-35.7
+	c0.8-14.9,56.3-39.3,56.3-39.3L148.8,298.1z"/>
+<path id="pataI2" d="M149.4,290.7c0,0-69.4-26.7-84.2-16.9c-15.6,10.3-13.7,73.6-13.7,73.6l-21.8,12.9l4.1,9.3l22.9-17.2
+	c0,0-1.7-64.1,13.4-73.5c13.8-8.7,76.9,19.5,76.9,19.5L149.4,290.7z"/>
+<path id="pataI1" d="M147.4,293.4c0,0-51.3-57.4-71.5-55.3c-19,1.9-49.5,58-49.5,58l15.3,22l-9,4l-12.6-29c0,0,33.7-61.9,54.7-64
+	c19.4-1.9,75.7,59.3,75.7,59.3L147.4,293.4z"/>
+<path id="pataD1" d="M163.8,291.1c0,0,23.6-68.3,40.3-72.3c18.5-4.5,67.4,40.8,67.4,40.8l31.1-4.5l-1.5-9.5l-29,8
+	c0,0-50.6-47-70.5-42c-18.9,4.8-45.2,76.8-45.2,76.8L163.8,291.1z"/>
+<path id="pataD2" d="M156.6,293.1c0,0,53.7-49.6,73.5-42c16.2,6.2,22,66,22,66l26.3,6l-3.3,11l-28-12c0,0-5.1-57.7-19.7-63.7
+	c-16.9-7-64.8,37.2-64.8,37.2L156.6,293.1z"/>
+<path id="pataD3" d="M166.1,304.1c0,0,50,11.3,55.5,25.5c4.4,11.5-19.5,45.5-19.5,45.5l20,8l-5,8.5l-24-13.5c0,0,26-34.3,21.7-46.3
+	c-4.6-12.8-49.2-23.7-49.2-23.7L166.1,304.1z"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="418.1614" y1="-335.7908" x2="343.3887" y2="-348.3396" gradientTransform="matrix(0.9959 -9.096393e-002 -9.096393e-002 -0.9959 -242.2795 -11.509)">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.1149" style="stop-color:#C9C9C9"/>
+	<stop  offset="0.2417" style="stop-color:#949494"/>
+	<stop  offset="0.3705" style="stop-color:#676767"/>
+	<stop  offset="0.4987" style="stop-color:#424242"/>
+	<stop  offset="0.626" style="stop-color:#252525"/>
+	<stop  offset="0.7525" style="stop-color:#101010"/>
+	<stop  offset="0.8776" style="stop-color:#040404"/>
+	<stop  offset="1" style="stop-color:#000000"/>
+</linearGradient>
+<path fill="url(#SVGID_1_)" d="M150,265.1c20.9-1.9,39.3,11.5,40.9,29.9c1.7,18.4-13.9,34.9-34.8,36.8
+	c-20.9,1.9-39.3-11.5-40.9-29.9C113.5,283.5,129.1,267.1,150,265.1z"/>
+<ellipse fill="#FCFCFC" cx="138.8" cy="308.8" rx="9.5" ry="9.8"/>
+<ellipse fill="#FCFCFC" cx="170.8" cy="305.8" rx="9.5" ry="9.8"/>
+<ellipse cx="142.6" cy="307.7" rx="5.3" ry="5.7"/>
+<ellipse cx="168.3" cy="306" rx="5.3" ry="5.7"/>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M152.1,270.1"/>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M146.1,2.1c2,125,1,276,1,276"/>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M117.4,303.4c0,0-7-4.7-11,1.3"/>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M120.4,307.8c-4-1-5.7,0.3-7,1.3"/>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M123.8,282.8c0,0-4-7.3-9.3-6"/>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M138.8,325.4c0,0-3.7,3-5,5.3"/>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M142.8,269.1c-0.7-5.3-7-10-9-10"/>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M152.8,267.1c0-3.3,0.7-6.7,3-8.3"/>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M176.4,275.1c1-3.7,3-7,6.3-8"/>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M187.8,293.1c3.3-2.7,6-2.7,7.7-1.7"/>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M186.4,305.8c0,0,6.7-1.3,8,2.3"/>
+<path fill="#FFFFFF" stroke="#020000" stroke-miterlimit="10" d="M144.4,323.8c-2.3,3,0.3,8.3,3.3,9.7c3,1.4,0.3-4,1.3-7.3
+	C150,322.9,144.4,323.8,144.4,323.8z"/>
+<path fill="#FFFFFF" stroke="#020000" stroke-miterlimit="10" d="M167.4,322.8c2.3,3-0.3,8.3-3.3,9.7c-3,1.4-0.3-4-1.3-7.3
+	C161.8,321.9,167.4,322.8,167.4,322.8z"/>
+<path fill="none" stroke="#020000" stroke-miterlimit="10" d="M174.4,321.8c1.7,0.7,4.7,4,4.7,5.3"/>
+</svg>
